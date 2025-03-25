@@ -2,17 +2,37 @@
 <!--   <img src="YOUR_LOGO_IMAGE_URL" alt="Logo" width="200"/> -->
 </p>
 
-# PAYROLL MANAGEMENT SYSTEM 
+# TEAM PORTFOLIO
 
-ITEC 80A - Simple Project
+ITEC 106A - WEB SYSTEM AND TECHNOLOGY 2
 
 ## Features
 
-* Admin manage employee salary.
-* Login two types of account (Admin and Employee) | Auto filter login.
-* Forgot Password with OTP / recovery code sent through email.
-* Export PDF files for Reports as well as list of employee, etc.
-* Integrated system - Mailer (API).
+* **Homepage**
+    * a. Team name and logo.
+    * b. Brief introduction of the team.
+    * c. Mission and Vision statement.
+<br/>
+
+* **About Us**
+    * a. Team background and purpose.
+    * b. Description of expertise and focus area.
+<br/>
+
+* **Team Members**
+    * a. List of all team members.
+    * b. Members profile.
+<br/>
+
+* **Project**
+    * a. Showcase privious or ongoing project.
+    * b. List of Project
+<br/>
+
+* **Contact**
+    * a. Contact form for inquaries.
+    * b. Social media links
+<br/>
 
 ## Help And Guide ( Git Commands )
 
@@ -47,19 +67,18 @@ ITEC 80A - Simple Project
 ## Authors
 
 Contributors
-* [Jj](https://github.com/jjharvey00)
-* [Rod](https://github.com/Rodney22-blimp)
+* [Marc](https://github.com/MarcAndrei00)
+* [Mart](https://github.com)
 * [Yrria](https://github.com/Yrria)
-* [DH-Nyel](https://github.com/karinaonly)
-* [Jps](https://github.com/JPMacaspac)
-* [Nix](https://github.com/6nix)
+* [Vey](https://github.com/karinaonly)
+* [Tin](https://github.com)
 
 
 ## Purpose
 
 This project is for educational purposes only. It is used to fulfill the requirements for a course subject.
 <br/>
-ITEC 80A - HUMAN COMPUTER INTERACTION 1.
+ITEC 106A - WEB SYSTEM AND TECHNOLOGY 2.
 
 ## Acknowledgments
 
