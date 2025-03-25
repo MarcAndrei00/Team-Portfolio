@@ -12,27 +12,22 @@ ITEC 106A - WEB SYSTEM AND TECHNOLOGY 2
     * Team name and logo.
     * Brief introduction of the team.
     * Mission and Vision statement.
-<br/>
 
 * **About Us**
     * Team background and purpose.
     * Description of expertise and focus area.
-<br/>
 
 * **Team Members**
     * List of all team members.
     * Members profile.
-<br/>
 
 * **Project**
     * Showcase privious or ongoing project.
     * List of Project
-<br/>
 
 * **Contact**
     * Contact form for inquaries.
     * Social media links
-<br/>
 
 ## Help And Guide ( Git Commands )
 
